@@ -17,4 +17,4 @@ R² 2024 conference is held in the heart of Bavaria at Winkler Bräu, a charming
 
 The hotel venue is now reserved from Tuesday, October 8th, to Thursday, October 10th, covering lunch to lunch. For those traveling from Sweden, we have arranged accommodations starting from Monday to allow for a more relaxed arrival the day before.
 
-Please see [our traveling recommendations](traveling).
+Please see [our traveling recommendations](../traveling).
