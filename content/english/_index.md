@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Program"
-    image: "/images/retreat.jpg"
+    image: "/images/meeting.jpg"
     content: "R² 2024 aims to connect people and research from BTH and fortiss."
     bulletpoints:
       - "**Day 1** Status Quo and Overview of ongoing research streams and projects"
