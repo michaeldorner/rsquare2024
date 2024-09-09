@@ -1,0 +1,28 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "News"
+pageRef = "/news"
+weight = 2
+
+[[main]]
+name = "Program"
+pageRef = "/program"
+weight = 3
+
+[[main]]
+name = "Venue"
+pageRef = "/venue"
+weight = 4
+
+[[main]]
+name = "Traveling"
+pageRef = "/traveling"
+weight = 5
+
