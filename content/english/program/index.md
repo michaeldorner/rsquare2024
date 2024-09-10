@@ -39,7 +39,6 @@ We end our research retreat by discussing potential strategies and what is neces
 
 {{< /accordion >}}
 
-
 ## Preparations
 
 In advance of our research retreat, please prepare two short talks.
