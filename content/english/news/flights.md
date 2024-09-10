@@ -1,7 +1,11 @@
 ---
-title: "Flight Recommndations"
-meta_title: "Flights Recommndations"
+title: "Flight Recommendations"
+meta_title: ""
 description: "Recommended flights"
+date: 2024-09-10T09:00:00Z
+tags: ["travel", "flight", "recommendation"]
+image: "/images/image-placeholder.png"
+author: "Michael Dorner"
 ---
 
 If you haven't booked your flights and you need a recommendation, the following itinerary is the most common among the other participants:
