@@ -15,8 +15,8 @@ Please follow the instructions (including BU number for *BTH* and Kostenstelle f
 
 ### From Karlskrona
 
-For those who are travelling from Sweden, please coordinate yourself with the flights so that we can organize a pickup service from Munich airport for you together. Please see the [our flight recommendations]({{< ref "/news/flights" >}}) and the [information on airport shuttle service]({{< ref "/blog/airport-shuttle" >}}).
+For those who are travelling from Sweden, please coordinate yourself with the flights so that we can organize a pickup service from Munich airport for you together. Please see the [our flight recommendations]({{< ref "/news/flights" >}}) and the [information on airport shuttle service]({{< ref "/news/airport-shuttle" >}}).
 
 ### From Munich
 
-For those of you travelling from Munich, in particular fortiss, please create a Dienstreiseantrag for insurance purposes and, if you take your car, reimbursement purposes. Please organize [carpools as needed]({{< ref "/blog/carpooling" >}}).
+For those of you travelling from Munich, in particular fortiss, please create a Dienstreiseantrag for insurance purposes and, if you take your car, reimbursement purposes. Please organize [carpools as needed]({{< ref "/news/carpooling" >}}).
