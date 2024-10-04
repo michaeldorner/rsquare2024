@@ -13,6 +13,8 @@ Here is the tentative program. We continuously update and detail the program.
 
 {{< accordion "Day 1" >}}
 
+We kick off our retreat with a joint lunch at the [location](venue).
+
 ### Afternoon
 
 We discuss the status quo of our research and get an overview of ongoing research streams and projects.
@@ -33,9 +35,11 @@ In the afternoon, we have plenty of time to discuss, network, and build working 
 
 {{< accordion "Day 3" >}}
 
-### Morning 
+### Morning
 
-We end our research retreat by discussing potential strategies and what is necessary to get to the visions.
+We discuss potential strategies and what is necessary to get to the visions.
+
+We end our research retreat with a joint lunch at the [location](venue).
 
 {{< /accordion >}}
 

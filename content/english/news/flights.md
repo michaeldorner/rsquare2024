@@ -4,7 +4,6 @@ meta_title: ""
 description: "Recommended flights"
 date: 2024-09-10T09:00:00Z
 tags: ["travel", "flight", "recommendation"]
-image: "/images/image-placeholder.png"
 author: "Michael Dorner"
 ---
 
