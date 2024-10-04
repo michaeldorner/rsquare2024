@@ -7,7 +7,7 @@ draft: false
 
 ## Traveling
 
-R² 2024 conference is held in the heart of Bavaria at Winkler Bräu, a charming Bavarian Brewery dating back to 1428. Learn more about the [venue here](venue).
+R² 2024 conference is held in the heart of Bavaria at Winkler Bräu, Lengenfeld, Bavaria, Germany. Learn more about the [venue here]({{< ref "venue" >}}).
 
 {{< notice "note" >}}
 Please follow the instructions (including BU number for *BTH* and Kostenstelle for *fortiss*) sent out via e-mail on September 9.
