@@ -1,8 +1,8 @@
 ---
 title: "Airport Shuttle"
 description: "Airport Shuttle at MUC for our Swedish participants"
-date: 2024-09-10T09:00:00Z
-tags: ["travel", "flight", "recommendation"]
+date: 2024-10-04T09:00:00Z
+tags: ["travel", "flight"]
 author: "Michael Dorner"
 ---
 
