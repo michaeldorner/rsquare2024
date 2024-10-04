@@ -25,6 +25,4 @@ If you haven't booked your flights and you need a recommendation, the following 
 - Departure: 18:20
 - Arrival: 19:55
 
-More details on [Google Flights](https://www.google.com/travel/flights/s/HhGSPaPAGBWHYwFaA)
-
-Let us know when you have a different itinerary.
+More details on [Google Flights](https://www.google.com/travel/flights/s/HhGSPaPAGBWHYwFaA). Please see also the [information on the airport shuttle]({{< ref "airport-shuttle" >}}) and please let us know when you have a different itinerary.
