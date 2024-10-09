@@ -9,4 +9,4 @@ author: "Michael Dorner"
 
 Here are Daniel's slides from the first day for your reference.
 
-{{< button label="Download PDF" link="2024-10-07%20Research%20retreat.pdf" style="solid" >}}
+{{< button label="Download PDF" link="news/slides-day-1/2024-10-07%20Research%20retreat.pdf" style="solid" >}}
