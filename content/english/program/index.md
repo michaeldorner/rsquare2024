@@ -7,10 +7,6 @@ draft: false
 
 ## Program
 
-{{< notice "info" >}}
-Here is the tentative program. We continuously update and detail the program.
-{{< /notice >}}
-
 {{< accordion "Day 1" >}}
 
 We kick off our retreat with a joint lunch at the [location](venue).
