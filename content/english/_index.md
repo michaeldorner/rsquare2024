@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "R² 2024 Research Retreat "
+  title: "R² 2024 Research Retreat"
   content: "Connecting people and research from BTH and fortiss"
   image: "/images/1r2_logo.png"
   button:
